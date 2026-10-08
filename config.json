@@ -1,0 +1,16 @@
+{
+  "InstallDir": null,
+  "AppId": 3132990,
+  "ExeName": "b1_benchmark.exe",
+  "PresentMonPath": "tools\\PresentMon.exe",
+
+  "StartupWaitSec": 25,
+  "WindowTimeoutSec": 120,
+  "BenchmarkDurationSec": 170,
+  "WarmupTrimSec": 15,
+
+  "UiSteps": [
+    { "Key": "Enter", "DelayMs": 4000 },
+    { "Key": "Enter", "DelayMs": 1000 }
+  ]
+}
